@@ -922,3 +922,7 @@ input[type="reset"].btn-block,
 input[type="button"].btn-block {
         width: 100%;
 }
+/*for hiding widget for the bdkd project*/
+.bdkd-hidden {
+        display: none;
+}
